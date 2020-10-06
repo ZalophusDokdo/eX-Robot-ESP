@@ -105,6 +105,10 @@ Schematic is available here:
   <a href="https://github.com/ZalophusDokdo/eX-Robot-ESP/blob/master/images/ESP8266_ESP-12E_WeMos_D1_mini_eX-Robot_Shield_REV0_brd.png">
     <img src="https://github.com/ZalophusDokdo/eX-Robot-ESP/blob/master/images/ESP8266_ESP-12E_WeMos_D1_mini_eX-Robot_Shield_REV0_brd.png" width="100%">
   </a>
+  <br>
+  <a href="https://github.com/ZalophusDokdo/eX-Robot-ESP/blob/master/images/ESP8266_ESP-12E_WeMos_D1_mini_eX-Robot_Shield_REV0_ass.png">
+    <img src="https://github.com/ZalophusDokdo/eX-Robot-ESP/blob/master/images/ESP8266_ESP-12E_WeMos_D1_mini_eX-Robot_Shield_REV0_ass.png" width="100%">
+  </a>
 </p>
 
 ---------------
